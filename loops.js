@@ -31,7 +31,7 @@ console.log(i);
 }
 
 // 7. [0 1 2 3 4 0 1 2 3 4 0 1 2 3 4]
-for (x = 0; x<3; x++){
+for (x=0; x<3; x++){
   for (i=0; i<=4; i++){
   console.log(i);
   }
